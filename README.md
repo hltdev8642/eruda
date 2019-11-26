@@ -1,6 +1,4 @@
-<a href="https://eruda.liriliri.io/" target="_blank">
-    <img src="./doc/banner.jpg">
-</a>
+<a href="https://eruda.liriliri.io/" target="_blank"></a>
 
 [中文](doc/README_CN.md)
 
